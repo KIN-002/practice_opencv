@@ -1,0 +1,4 @@
+C:\Users\KIN\Desktop\OpenCV_C++test\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\KIN\Desktop\OpenCV_C++test\x64\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\KIN\Desktop\OpenCV_C++test\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\KIN\Desktop\OpenCV_C++test\x64\Debug\dll\x64\opencv_ffmpeg400_64.dll

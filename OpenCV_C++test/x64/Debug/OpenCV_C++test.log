@@ -1,0 +1,2 @@
+﻿  OpenCV_C++test.cpp
+E:\大學\大一\大一下\程設實踐\OpenCV_C++test\OpenCV_C++test\OpenCV_C++test.cpp(1,9): error C1083: 無法開啟包含檔案: 'opencv2/opencv.hpp': No such file or directory
